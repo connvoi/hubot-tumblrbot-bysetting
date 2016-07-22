@@ -1,6 +1,6 @@
 {
   "name": "hubot-tumblrbot-bysetting",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "hubot tumblrbot by setting ",
   "main": "index.coffee",
   "scripts": {
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/connvoi/hubot-tumblrbot-bysetting"
   },
-  "homepage": "https://github.com/naoya/hubot-sushiyuki",
+  "homepage": "https://github.com/connvoi/hubot-tumblrbot-bysetting",
   "author": "connvoi",
   "license": "MIT"
 }
