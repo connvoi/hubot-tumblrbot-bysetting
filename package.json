@@ -1,6 +1,6 @@
 {
   "name": "hubot-tumblrbot-bysetting",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "hubot tumblrbot by setting ",
   "main": "index.coffee",
   "scripts": {

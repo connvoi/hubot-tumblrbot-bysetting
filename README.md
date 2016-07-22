@@ -9,13 +9,11 @@ You can get from tumblr image without coding scirpts.
 
 ## Installation
 
-Add `hubot-sushiyuki` to your package.json, run `npm install` and add hubot-sushiyuki to `external-scripts.json`.
-
 Add `hubot-tumblrbot-bysetting` to your `package.json` dependencies.
 
 ```
 "dependencies": {
-  "hubot-tumblrbot-bysetting": "0.0.1"
+  "hubot-tumblrbot-bysetting": "0.0.4"
 }
 ```
 
